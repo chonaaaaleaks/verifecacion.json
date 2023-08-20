@@ -5,7 +5,7 @@
                                                                             " ! Nico." : {
 " mensaje " : " ! ip 190.211.134.8"
 },
-                                                                          " ad " : {
+                                                                          " a " : {
 " mensaje " : " ! ip IP"
 },
                     " a " : {
